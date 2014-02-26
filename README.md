@@ -1,8 +1,11 @@
 NavLicenseSwap
 ==============
 
-Swaps licence for a NAV service
+Swaps licence for a NAV service.
+
 This small PowerShell script is made so you can choose which license to import into a database quickly and at the same time restaret the service.
+
+It shows both a list of sessions and a warning if there are anyone connected to the service.
 
 Prerequisite
 ------------
